@@ -16,10 +16,10 @@ I'm a programming student who enjoys coding, learning new things, and working on
 ### Languages I've Worked With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,js,ts,vue,mysql" alt="C++, C#, HTML, JavaScript, TypeScript, Vue.js, SQL" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,vue,mysql" alt="C++, C#, HTML, CSS, JavaScript, TypeScript, Vue.js, SQL" />
 </p>
 
-I've worked with **C++, C#, and HTML**, and I have some basic knowledge of **SQL**.
+I've worked with **C++, C#, HTML et CSS**, and I have some basic knowledge of **SQL**.
 
 Right now, I'm focusing on improving my skills in C#, JavaScript, TypeScript, and Vue.js.
 
@@ -57,10 +57,10 @@ Je suis étudiant en programmation et j'aime coder, apprendre de nouvelles chose
 ### Langages avec lesquels j'ai travaillé
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,js,ts,vue,mysql" alt="C++, C#, HTML, JavaScript, TypeScript, Vue.js, SQL" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,vue,mysql" alt="C++, C#, HTML, CSS, JavaScript, TypeScript, Vue.js, SQL" />
 </p>
 
-J'ai déjà travaillé avec **C++, C# et HTML**, et je possède quelques connaissances de base en **SQL**.
+J'ai déjà travaillé avec **C++, C#, HTML et CSS**, et je possède quelques connaissances de base en **SQL**.
 
 Actuellement, je consacre davantage de temps à l'apprentissage du **C#, JavaScript, Typescript et Vue.js**.
 
