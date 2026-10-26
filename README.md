@@ -16,7 +16,7 @@ I'm a programming student who enjoys coding, learning new things, and working on
 ### Languages I've Worked With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,js,mysql" alt="C++, C#, HTML, JavaScript, SQL" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,js,mysql,vue" alt="C++, C#, HTML, JavaScript, SQL, Vue.js" />
 </p>
 
 I've worked with **C++, C#, and HTML**, and I have some basic knowledge of **SQL**.
@@ -57,7 +57,7 @@ Je suis étudiant en programmation et j'aime coder, apprendre de nouvelles chose
 ### Langages avec lesquels j'ai travaillé
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,js,mysql" alt="C++, C#, HTML, JavaScript, SQL" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,js,mysql,vue" alt="C++, C#, HTML, JavaScript, SQL, Vue.js" />
 </p>
 
 J'ai déjà travaillé avec **C++, C# et HTML**, et je possède quelques connaissances de base en **SQL**.
