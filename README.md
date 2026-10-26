@@ -30,3 +30,7 @@ Right now, I'm spending more time learning **C# and JavaScript**.
 ## What I'm Working On
 
 I'm currently working on improving my programming skills through school assignments and personal projects. I like trying out different ideas, figuring out how things work, and learning from the mistakes I make along the way.
+
+## Ideas
+
+If you have project ideas that aren't too difficult and want to give me a challenge ! Please contact me by Whatsapp : <strong>+1 (438)-376-9828<strong/>
