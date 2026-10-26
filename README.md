@@ -78,4 +78,4 @@ En ce moment, je cherche à améliorer mes compétences en programmation grâce 
 
 Si vous avez des idées de projets qui ne sont pas trop compliqués et que vous aimeriez me proposer un petit défi, n'hésitez pas à me contacter sur WhatsApp !
 
-**WhatsApp : +1 (438) 376-9828 **
+**WhatsApp : +1 (438) 376-9828**
