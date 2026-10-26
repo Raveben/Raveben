@@ -33,4 +33,4 @@ I'm currently working on improving my programming skills through school assignme
 
 ## Ideas
 
-If you have project ideas that aren't too difficult and want to give me a challenge ! Please contact me by Whatsapp : <strong>+1 (438)-376-9828<strong/>
+If you have project ideas that aren't too difficult and want to give me a challenge... Please contact me by Whatsapp : <strong>+1 (438)-376-9828<strong/>
